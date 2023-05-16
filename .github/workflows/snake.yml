@@ -20,7 +20,7 @@ jobs:
 
       # Snake Animation
 
-      - uses: Platane/snk@master
+      - uses: AnaKelySantos/snk@master
 
         id: snake-gif
 
